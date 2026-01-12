@@ -2,8 +2,11 @@ payload:
   - DOMAIN,accounts.google.com
   - DOMAIN,play.google.com
   - DOMAIN,firebase-settings.crashlytics.com
-  - DOMAIN,abproxy.production-public.tubi.io
   - 'DOMAIN-KEYWORD,tubi'
+  - 'DOMAIN-SUFFIX,production-public.tubi.io'
   - 'DOMAIN-SUFFIX,gstatic.com'
   - 'DOMAIN-SUFFIX,app-analytics-services.com'
   - 'DOMAIN-SUFFIX,googleapis.com'
+  - 'DOMAIN-SUFFIX,tubitv.com'
+  - 'DOMAIN-SUFFIX,googlesyndication.com'
+  - 'DOMAIN-SUFFIX,doubleclick.net'

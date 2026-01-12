@@ -1,5 +1,4 @@
 payload:
-
   - DOMAIN,accounts.google.com
   - DOMAIN,play.google.com
   - DOMAIN,firebase-settings.crashlytics.com
@@ -8,4 +7,3 @@ payload:
   - 'DOMAIN-SUFFIX,gstatic.com'
   - 'DOMAIN-SUFFIX,app-analytics-services.com'
   - 'DOMAIN-SUFFIX,googleapis.com'
-
